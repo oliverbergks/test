@@ -1,2 +1,3 @@
-$ git init
-Hejsan hoppsan
+hejsan hoppsan
+råznus
+
