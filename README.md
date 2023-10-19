@@ -1,3 +1,2 @@
-# Hej
-add
+$ git init
 Hejsan hoppsan
